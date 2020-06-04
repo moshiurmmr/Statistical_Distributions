@@ -1,5 +1,5 @@
  # Statistical Distributions
-   statDistributions is a Python package for different statistical distributions (_currently Gaussian and Binomial distributions_) . It provides the following for a statistical distibution:
+  **statDistributions** is a Python package for different statistical distributions (_currently Gaussian and Binomial distributions_) . It provides the following for a statistical distibution:
    * calculate mean
    * calculate standard deviation
    * calculate probability density function (pdf)
